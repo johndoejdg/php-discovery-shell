@@ -1,5 +1,5 @@
 {
-    "name": "zyberspace/discovery-shell",
+    "name": "johndoejdg/php-discovery-shell",
     "description": "developer shell to help discover a class or library",
     "type": "library",
     "homepage": "https://github.com/zyberspace/php-discovery-shell",
